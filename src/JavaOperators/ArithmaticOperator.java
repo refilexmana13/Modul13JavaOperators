@@ -40,5 +40,8 @@ public class ArithmaticOperator {
 
         float contoh1 = 5 - 2.49999995f;
         System.out.println(contoh1);
+
+        float contoh2 = 5 + 2.49999995f;
+        System.out.println(contoh2);
     }
 }
